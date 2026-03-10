@@ -38,13 +38,8 @@ REST API сервер для игры «Крестики-нолики» с Clean
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantaelVeli&show_icons=true&theme=radical)
-
----
-
 ## 📫 Связаться со мной
 
-- Telegram: [@ShantaelVeli](https://t.me/ShantaelVeli)  
-- Email: shantael@example.com
+- Telegram: [@errjaan](https://t.me/errjaan)  
+- Email: agaev.vili@gmail.com
+- Phone: +7(912)-010-09-96
